@@ -1,0 +1,12 @@
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\bin\Debug\netcoreapp3.1\ODC.Doctor.Model.dll
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.csprojAssemblyReference.cache
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.AssemblyInfoInputs.cache
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.AssemblyInfo.cs
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\bin\Debug\netcoreapp3.1\ODC.Doctor.Repository.deps.json
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\bin\Debug\netcoreapp3.1\ODC.Doctor.Repository.dll
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\bin\Debug\netcoreapp3.1\ODC.Doctor.Repository.pdb
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\bin\Debug\netcoreapp3.1\ODC.Doctor.Model.pdb
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.csproj.CoreCompileInputs.cache
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.csproj.CopyComplete
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.dll
+D:\Sonata\ODC\ODC.Doctor\ODC.Doctor.Repository\obj\Debug\netcoreapp3.1\ODC.Doctor.Repository.pdb

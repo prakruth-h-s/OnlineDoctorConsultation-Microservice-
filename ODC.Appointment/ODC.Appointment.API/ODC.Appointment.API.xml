@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODC.Appointment.API</name>
+    </assembly>
+    <members>
+        <member name="M:ODC.Appointment.API.Controllers.AppointmentController.Create(ODC.Appointment.Model.Appointment)">
+            <summary>
+            Book Appointment
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.AppointmentController.GetAppointmentByAppointmentId(System.Int32)">
+            <summary>
+            Get Appointment By Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.AppointmentController.GetAppointmentsByUserId(System.Int32,System.String)">
+            <summary>
+            Get Appointments By UserId
+            </summary>
+            <param name="userId"></param>
+            <param name="role"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.AppointmentController.UpdateAppointmentStatus(System.Int32,System.String)">
+            <summary>
+            Update Appointment Status
+            </summary>
+            <param name="appointmentId"></param>
+            <param name="status"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.FeedbackController.Create(ODC.Appointment.Model.Feedback)">
+            <summary>
+            Add Feedback
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.FeedbackController.GetFeedbackByAppointmentId(System.Int32)">
+            <summary>
+            Get Feedback By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.FeedbackController.GetFeedbacksByUserId(System.Int32)">
+            <summary>
+            Get Feedback By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.PrescriptionController.Create(ODC.Appointment.Model.MedicalPrescription)">
+            <summary>
+            Add Prescription
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.PrescriptionController.GetPrescriptionByAppointmentId(System.Int32)">
+            <summary>
+            Get Prescription By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Controllers.PrescriptionController.GetPrescriptionByUserId(System.Int32)">
+            <summary>
+            Get Prescription By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.AppointmentService.SaveAppointment(ODC.Appointment.Model.Appointment)">
+            <summary>
+            Book Appointment
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.AppointmentService.GetAppointmentByAppointmentId(System.Int32)">
+            <summary>
+            Get Appointment By Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.AppointmentService.GetAppointmentsByUserId(System.Int32,System.String)">
+            <summary>
+            Get Appointments By UserId
+            </summary>
+            <param name="userId"></param>
+             <param name="role"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.AppointmentService.UpdateAppointmentStatus(System.Int32,System.String)">
+            <summary>
+            Update Appointment Status
+            </summary>
+            <param name="appointmentId"></param>
+            <param name="status"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IAppointmentService.SaveAppointment(ODC.Appointment.Model.Appointment)">
+            <summary>
+            Book Appointment
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IAppointmentService.GetAppointmentByAppointmentId(System.Int32)">
+            <summary>
+            Get Appointment By Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IAppointmentService.GetAppointmentsByUserId(System.Int32,System.String)">
+            <summary>
+            Get Appointments By UserId
+            </summary>
+            <param name="userId"></param>
+             <param name="role"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IAppointmentService.UpdateAppointmentStatus(System.Int32,System.String)">
+            <summary>
+            Update Appointment Status
+            </summary>
+            <param name="appointmentId"></param>
+            <param name="status"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.FeedbackService.AddFeedback(ODC.Appointment.Model.Feedback)">
+            <summary>
+            Add Feedback
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.FeedbackService.GetFeedbackByAppointmentId(System.Int32)">
+            <summary>
+            Get Feedback By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.FeedbackService.GetFeedbacksByUserId(System.Int32)">
+            <summary>
+            Get Feedback By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IFeedbackService.AddFeedback(ODC.Appointment.Model.Feedback)">
+            <summary>
+            Add Feedback
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IFeedbackService.GetFeedbackByAppointmentId(System.Int32)">
+            <summary>
+            Get Feedback By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IFeedbackService.GetFeedbacksByUserId(System.Int32)">
+            <summary>
+            Get Feedback By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IPrescriptionService.AddPrescription(ODC.Appointment.Model.MedicalPrescription)">
+            <summary>
+            Add Prescription
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IPrescriptionService.GetPrescriptionByAppointmentId(System.Int32)">
+            <summary>
+            Get Prescription By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.IPrescriptionService.GetPrescriptionsByUserId(System.Int32)">
+            <summary>
+            Get Prescription By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.PrescriptionService.AddPrescription(ODC.Appointment.Model.MedicalPrescription)">
+            <summary>
+            Add Prescription
+            </summary>
+            <param name="request"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.PrescriptionService.GetPrescriptionByAppointmentId(System.Int32)">
+            <summary>
+            Get Prescription By Appointment Id
+            </summary>
+            <param name="appointmentId"></param>
+        </member>
+        <member name="M:ODC.Appointment.API.Services.PrescriptionService.GetPrescriptionsByUserId(System.Int32)">
+            <summary>
+            Get Prescription By UserId
+            </summary>
+            <param name="userId"></param>
+        </member>
+    </members>
+</doc>

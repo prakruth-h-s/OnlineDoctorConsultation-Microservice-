@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODC.Patient.API</name>
+    </assembly>
+    <members>
+        <member name="M:ODC.Patient.API.Controllers.PatientController.Create(ODC.Patient.Model.User)">
+            <summary>
+            Register Patient
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:ODC.Patient.API.Controllers.PatientController.RemovePatient(System.Int32)">
+            <summary>
+            Remove Patient User By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.Controllers.PatientController.GetPatientById(System.Int32)">
+            <summary>
+            Get Patient User By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.Controllers.PatientController.UpdatePatientUser(ODC.Patient.Model.User)">
+            <summary>
+            Update Patient User Detail
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:ODC.Patient.API.IPatientService.RegisterPatient(ODC.Patient.Model.User)">
+            <summary>
+            Register Patient
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Patient.API.IPatientService.RemovePatientById(System.Int32)">
+            <summary>
+            Remove Patient User By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.IPatientService.GetPatientById(System.Int32)">
+            <summary>
+            Get Patient User By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.IPatientService.UpdatePatientUserDetail(ODC.Patient.Model.User)">
+            <summary>
+            Update Patient User Detail
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Patient.API.PatientService.RegisterPatient(ODC.Patient.Model.User)">
+            <summary>
+            Register Patient
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Patient.API.PatientService.RemovePatientById(System.Int32)">
+            <summary>
+            Remove Patient User By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.PatientService.GetPatientById(System.Int32)">
+            <summary>
+            Get Patient By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Patient.API.PatientService.UpdatePatientUserDetail(ODC.Patient.Model.User)">
+            <summary>
+            Update Patient User Detail
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

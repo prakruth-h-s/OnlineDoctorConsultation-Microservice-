@@ -1,0 +1,12 @@
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\bin\Debug\netcoreapp3.1\ODC.UserManagement.Repository.deps.json
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\bin\Debug\netcoreapp3.1\ODC.UserManagement.Repository.dll
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\bin\Debug\netcoreapp3.1\ODC.UserManagement.Repository.pdb
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\bin\Debug\netcoreapp3.1\ODC.UserManagement.Model.dll
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\bin\Debug\netcoreapp3.1\ODC.UserManagement.Model.pdb
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.csprojAssemblyReference.cache
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.AssemblyInfoInputs.cache
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.AssemblyInfo.cs
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.csproj.CoreCompileInputs.cache
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.csproj.CopyComplete
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.dll
+D:\Sonata\ODC\ODC.UserManagement\ODC.UserManagement.Repository\obj\Debug\netcoreapp3.1\ODC.UserManagement.Repository.pdb

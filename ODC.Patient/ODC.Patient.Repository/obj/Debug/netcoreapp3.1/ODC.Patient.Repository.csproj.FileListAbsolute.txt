@@ -1,0 +1,12 @@
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\bin\Debug\netcoreapp3.1\ODC.Patient.Repository.deps.json
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\bin\Debug\netcoreapp3.1\ODC.Patient.Repository.dll
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\bin\Debug\netcoreapp3.1\ODC.Patient.Repository.pdb
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\bin\Debug\netcoreapp3.1\ODC.Patient.Model.dll
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\bin\Debug\netcoreapp3.1\ODC.Patient.Model.pdb
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.csprojAssemblyReference.cache
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.AssemblyInfoInputs.cache
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.AssemblyInfo.cs
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.csproj.CoreCompileInputs.cache
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.csproj.CopyComplete
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.dll
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Repository\obj\Debug\netcoreapp3.1\ODC.Patient.Repository.pdb

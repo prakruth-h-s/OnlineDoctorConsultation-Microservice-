@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODC.Doctor.API</name>
+    </assembly>
+    <members>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.Create(ODC.Doctor.Model.User)">
+            <summary>
+            Register Doctor
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.GetDoctorsBySpeciality(System.String)">
+            <summary>
+            Get Doctors By Speciality
+            </summary>
+            <param name="speciality"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.GetAllDoctors">
+            <summary>
+            Get All Doctors
+            </summary>
+        </member>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.GetDoctorsById(System.Int32)">
+            <summary>
+            Get Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.RemoveDoctor(System.Int32)">
+            <summary>
+            Remove Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.Controllers.DoctorController.UpdateDoctorUser(ODC.Doctor.Model.User)">
+            <summary>
+            Update Doctor User Detail
+            </summary>
+            <param name="user"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.RegisterDoctor(ODC.Doctor.Model.User)">
+            <summary>
+            Register Doctor
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.GetDoctorsBySpeciality(System.String)">
+            <summary>
+            Get Doctors By Speciality
+            </summary>
+            <param name="speciality"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.GetAllDoctors">
+            <summary>
+            Get All Doctors
+            </summary>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.GetDoctorsById(System.Int32)">
+            <summary>
+            Get Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.RemoveDoctorById(System.Int32)">
+            <summary>
+            Remove Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.DoctorService.UpdateDoctorUserDetail(ODC.Doctor.Model.User)">
+            <summary>
+            Update Doctor User Detail
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.RegisterDoctor(ODC.Doctor.Model.User)">
+            <summary>
+            Register Doctor
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.GetDoctorsBySpeciality(System.String)">
+            <summary>
+            Get Doctors By Speciality
+            </summary>
+            <param name="speciality"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.GetAllDoctors">
+            <summary>
+            Get All Doctors
+            </summary>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.GetDoctorsById(System.Int32)">
+            <summary>
+            Get Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.RemoveDoctorById(System.Int32)">
+            <summary>
+            Remove Doctors By Id
+            </summary>
+            <param name="userId"></param>
+        </member>
+        <member name="M:ODC.Doctor.API.IDoctorService.UpdateDoctorUserDetail(ODC.Doctor.Model.User)">
+            <summary>
+            Update Doctor User Detail
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

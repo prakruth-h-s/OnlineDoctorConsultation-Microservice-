@@ -1,0 +1,12 @@
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\bin\Debug\netcoreapp3.1\ODC.Appointment.Repository.deps.json
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\bin\Debug\netcoreapp3.1\ODC.Appointment.Repository.dll
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\bin\Debug\netcoreapp3.1\ODC.Appointment.Repository.pdb
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\bin\Debug\netcoreapp3.1\ODC.Appointment.Model.dll
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\bin\Debug\netcoreapp3.1\ODC.Appointment.Model.pdb
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.csprojAssemblyReference.cache
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.AssemblyInfoInputs.cache
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.AssemblyInfo.cs
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.csproj.CoreCompileInputs.cache
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.csproj.CopyComplete
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.dll
+D:\Sonata\ODC\ODC.Appointment\ODC.Appointment.Repository\obj\Debug\netcoreapp3.1\ODC.Appointment.Repository.pdb

@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODC.UserManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:ODC.UserManagement.API.Controllers.LoginInfoController.Login(System.String,System.String)">
+            <summary>
+            verify Login credentials
+            </summary>
+            <param name="userEmail"></param> 
+            <param name="password"></param> 
+        </member>
+        <member name="M:ODC.UserManagement.API.Controllers.LoginInfoController.SignUp(System.String,System.String,ODC.UserManagement.Model.User)">
+            <summary>
+            Register User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="userDetail"></param> 
+        </member>
+        <member name="M:ODC.UserManagement.API.Controllers.LoginInfoController.DeleteUser(System.String,System.String)">
+            <summary>
+            Delete User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+        </member>
+        <member name="M:ODC.UserManagement.API.Controllers.LoginInfoController.UpdatePassword(System.String,System.String,System.String)">
+            <summary>
+            Update Password
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="newPassword"></param>
+        </member>
+        <member name="M:ODC.UserManagement.API.ILoginInfoService.Login(System.String,System.String)">
+            <summary>
+            Verify Login Credentials
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.ILoginInfoService.SignUp(System.String,System.String,ODC.UserManagement.Model.User)">
+            <summary>
+            Register User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="userDetail"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.ILoginInfoService.DeleteUser(System.String,System.String)">
+            <summary>
+            Delete User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.ILoginInfoService.UpdatePassword(System.String,System.String,System.String)">
+            <summary>
+            Update Password
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="newPassword"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.LoginInfoService.Login(System.String,System.String)">
+            <summary>
+            Verify Login Credentials
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.LoginInfoService.SignUp(System.String,System.String,ODC.UserManagement.Model.User)">
+            <summary>
+            Register User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="userDetail"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.LoginInfoService.DeleteUser(System.String,System.String)">
+            <summary>
+            Delete User
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.LoginInfoService.UpdatePassword(System.String,System.String,System.String)">
+            <summary>
+            Update Password
+            </summary>
+            <param name="userEmail"></param>
+            <param name="password"></param>
+            <param name="newPassword"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ODC.UserManagement.API.LoginInfoService.GetClient">
+            <summary>
+            Get Client 
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

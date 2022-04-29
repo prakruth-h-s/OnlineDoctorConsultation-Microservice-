@@ -1,0 +1,8 @@
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\bin\Debug\netcoreapp3.1\ODC.Patient.Model.deps.json
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\bin\Debug\netcoreapp3.1\ODC.Patient.Model.dll
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\bin\Debug\netcoreapp3.1\ODC.Patient.Model.pdb
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\obj\Debug\netcoreapp3.1\ODC.Patient.Model.AssemblyInfoInputs.cache
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\obj\Debug\netcoreapp3.1\ODC.Patient.Model.AssemblyInfo.cs
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\obj\Debug\netcoreapp3.1\ODC.Patient.Model.csproj.CoreCompileInputs.cache
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\obj\Debug\netcoreapp3.1\ODC.Patient.Model.dll
+D:\Sonata\ODC\ODC.Patient\ODC.Patient.Model\obj\Debug\netcoreapp3.1\ODC.Patient.Model.pdb
